@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77774957144",
+    "project_id": "visivista-822ca",
+    "storage_bucket": "visivista-822ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77774957144:android:7d4bc132dffc194619b82d",
+        "android_client_info": {
+          "package_name": "com.example.visivista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ik9hKphZ4zmkif18XYPF_r24W-kD68Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
